@@ -1,7 +1,7 @@
 // Import table fan images
 import UshaTableFan from './UshaTableFan.png';
 import OrientTableFan from './OrientTableFan.png';
-import Tablefan from './Tablefan.png';
+import TableFan from './TableFan.png';
 import UshaFourBlades from './UshaFourBlades.png';
 
 // Table fan products list
@@ -21,7 +21,7 @@ const TableProducts = [
   {
     name: "Standard Table Fan",
     price: 2000,
-    image: Tablefan,
+    image: TableFan,
     description: "Reliable and affordable table fan ideal for offices, study rooms, and small living areas."
   },
   {

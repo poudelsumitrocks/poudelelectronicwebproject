@@ -1,5 +1,5 @@
 import UshaStandfan from './UshaStandfan.png';
-import OrientStandfan from './OrientStandfan.png';
+import OrientStandFan from './OrientStandFan.png';
 // import Standfan from './Standfan.png';
 
 
@@ -7,7 +7,7 @@ const StandProducts = [
   {
     name: "Orient Stand Fan",       
     price: 3200,
-    image: OrientStandfan,
+    image: OrientStandFan,
     description: "Powerful Orient stand fan with adjustable height and oscillation for optimal air circulation."            
     },
     {
@@ -25,4 +25,4 @@ const StandProducts = [
     // }
 ];  
 export default StandProducts;
-export { OrientStandfan };
+

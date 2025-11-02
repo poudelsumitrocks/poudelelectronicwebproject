@@ -1,6 +1,6 @@
 // Import ceiling fan images
 import OrientBrownCeiling from './OrientBrownCeiling.png';
-import OrientFan from './OrientFan.png';
+import Orientfan from './Orientfan.png';
 import UshaCeiling from './UshaCeiling.png';
 import UshaFourBlades from './UshaFourBlades.png';
 import OrientsmallCelling from './OrientsmallCelling.png';
@@ -17,7 +17,7 @@ const ceilingProducts = [
   {
     name: "Orient Fan (Standard Model)",
     price: 3000,
-    image: OrientFan,
+    image: Orientfan,
     description: "Reliable Orient fan with superior air thrust and long-lasting copper winding motor.",
     category: "ceilingfan"
   },
